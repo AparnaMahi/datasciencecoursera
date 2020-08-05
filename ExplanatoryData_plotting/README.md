@@ -95,20 +95,20 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-!(plot1.png) 
+![plot1](figure/plot1.png) 
 
 
 ### Plot 2
 
-!(plot2.png) 
+![plot2](figure/plot2.png) 
 
 
 ### Plot 3
 
-!(plot3.png) 
+![plot3](figure/plot3.png) 
 
 
 ### Plot 4
 
-!(plot4.png) 
+![plot4](figure/plot4.png) 
 
